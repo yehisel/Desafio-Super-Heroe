@@ -1,0 +1,25 @@
+body{
+    background-image:url("/assets/img/bg-hero.jpg");
+    background-size: 1950px 1050px;
+    background-repeat: no-repeat; 
+    font-family: 'Poppins', sans-serif;
+
+
+
+}
+
+h1{
+   
+    
+    font-weight: 500;
+    color: ivory;
+}
+
+.radius{
+    border-radius: 35px;
+}
+
+
+.rainbow-bg{
+    background-image: linear-gradient(to top right, #FCA5A5, #FCD34D, #6EE7B7, #93C5FD, #C4B5FD);
+}
